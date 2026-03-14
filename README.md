@@ -1,2 +1,25 @@
 # Ai-Powered-Portfolio
-A modern, interactive personal portfolio built with React + TypeScript + Vite, showcasing my skills, projects, and achievements. Designed with a clean UI, fast performance, and scalability in mind.
+
+An interactive personal portfolio with an embedded AI assistant 
+that answers questions about my resume in real time.
+
+## Live Demo
+https://gurusaichittoji7.github.io/Ai-Powered-Portfolio/
+
+## Features
+- Full scrollable single-page portfolio
+- Pill-style sticky navigation with scroll tracking
+- Smooth scroll-reveal animations
+- Floating AI chat bubble powered by Claude API
+- Circular profile photo with orange glow border
+- Responsive on mobile & desktop
+
+## Built With
+- HTML5, CSS3, Vanilla JavaScript
+- Google Fonts (Playfair Display + Inter)
+- Anthropic Claude API (AI assistant)
+
+## Contact
+- Email: gurusaic3x@gmail.com
+- LinkedIn: linkedin.com/in/gurusai-chittoji-73a5a822a
+- GitHub: github.com/gurusaichittoji7
